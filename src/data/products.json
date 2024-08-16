@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Lenovo",
+    "description": "Computador portátil",
+    "code": "COD01",
+    "price": 900,
+    "status": true,
+    "stock": 15,
+    "category": "Empresas"
+  },
+  {
+    "id": 2,
+    "title": "Asus",
+    "description": "Computador portátil",
+    "code": "COD02",
+    "price": 1300,
+    "status": true,
+    "stock": 39,
+    "category": "Gamers"
+  },
+  {
+    "id": 3,
+    "title": "Dell",
+    "description": "Computador portátil",
+    "code": "COD03",
+    "price": 1800,
+    "status": true,
+    "stock": 25,
+    "category": "Diseño"
+  },
+  {
+    "id": 4,
+    "title": "HP",
+    "description": "Computador portátil",
+    "code": "COD04",
+    "price": 1200,
+    "status": true,
+    "stock": 55,
+    "category": "Hogar"
+  },
+  {
+    "id": 5,
+    "title": "MSI / Alienware",
+    "description": "Computador portátil",
+    "code": "COD05",
+    "price": 2500,
+    "status": "actualizado",
+    "stock": 18,
+    "category": "Gamer / Diseño"
+  },
+  {
+    "id": 6,
+    "title": "Compact",
+    "description": "Computador portátil",
+    "code": "COD06",
+    "price": 900,
+    "status": true,
+    "stock": 150,
+    "category": "Pymes"
+  },
+  {
+    "id": 7,
+    "title": "Bangho",
+    "description": "Computador portátil",
+    "code": "COD07",
+    "price": 900,
+    "status": true,
+    "stock": 67,
+    "category": "Pymes/Hogar"
+  },
+  {
+    "id": 8,
+    "title": "Acer",
+    "description": "Computador portátil",
+    "code": "COD08",
+    "price": 950,
+    "status": true,
+    "stock": 40,
+    "category": "Pymes/Hogar"
+  },
+  {
+    "id": 9,
+    "title": "Asus Rog",
+    "description": "Computador portátil",
+    "code": "COD09",
+    "price": 1900,
+    "status": true,
+    "stock": 15,
+    "category": "Gamer / Diseño"
+  },
+  {
+    "id": 10,
+    "title": "Lenovo Thinkpap",
+    "description": "Computador portátil",
+    "code": "COD010",
+    "price": 1700,
+    "status": true,
+    "stock": 31,
+    "category": "Empresas"
+  }
+]
